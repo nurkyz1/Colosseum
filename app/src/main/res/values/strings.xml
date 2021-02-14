@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Colosseum</string>
+    <string name="the_colosseum">The Colosseum</string>
+    <string name="txt_colesseum">One of the most recognizable sites in the world</string>
+    <string name="txt_num">312</string>
+    <string name="txt_button">Перейти</string>
+    <string name="edit_txt">Введите цифру</string>
+    <string name="txt_button1">Поменять</string>
+</resources>
